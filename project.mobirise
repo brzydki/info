@@ -75,7 +75,7 @@
           },
           "title": "brzydki.xyz",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://steamcommunity.com/id/wow62\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Steam</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://nick-name.ru/nickname/id1354758/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My nickname</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://steam.tools/itemvalue/#/wow62-730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My&nbsp;inventory</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://steamcommunity.com/id/wow62\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span>Steam</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://nick-name.ru/nickname/id1354758/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pages mbr-iconfont mbr-iconfont-btn\"></span>My nickname</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"http://steam.tools/itemvalue/#/wow62-730\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>My&nbsp;inventory</a>  "
         },
         {
           "_inherit": "soundcloud1",
