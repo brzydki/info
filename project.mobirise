@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/w512h5121390845821b512-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -58,7 +58,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/147368515518418641-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/0.gif",
             "bgColor": "#41a85f",
             "bgColorRadio": false,
             "bgVideo": {
