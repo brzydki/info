@@ -24,8 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 3,
     "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/w512h5121390845821b512-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
@@ -46,6 +47,10 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            ".mbr-section-title I": {
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_anchor": "header1-1",
@@ -53,7 +58,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/572a1a3d7c0121547c768044-2000x1248.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/retrowave-80-s-bg-by-rafael-de-jongh-d9wsq5j-2000x1125.png",
             "bgColor": "#41a85f",
             "bgColorRadio": false,
             "bgVideo": {
@@ -61,7 +66,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -78,15 +83,15 @@
           "_tags": [
             "Extension"
           ],
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F151979059",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F277639481",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-2",
           "_params": {
-            "sound": "https://soundcloud.com/die-antwoord-france/happy-go-sucky-fucky",
+            "sound": "https://soundcloud.com/user-305248602/pika-pm-edition-ue-prod-by-ploty",
             "autoplay": true,
             "fullWidth": true
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F151979059&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F277639481&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     }
