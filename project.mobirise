@@ -22,11 +22,13 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/w512h5121390845821b512-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -83,15 +85,15 @@
           "_tags": [
             "Extension"
           ],
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F327607708",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F328027905",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-2",
           "_params": {
-            "sound": "https://soundcloud.com/user-312056700/zzz",
+            "sound": "https://soundcloud.com/user-312056700/fff",
             "autoplay": true,
             "fullWidth": true
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F327607708&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F328027905&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     }
